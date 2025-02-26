@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MMMG/static/css/main.2cc91fad.css",
+    "main.js": "/MMMG/static/js/main.35617064.js",
+    "index.html": "/MMMG/index.html",
+    "main.2cc91fad.css.map": "/MMMG/static/css/main.2cc91fad.css.map",
+    "main.35617064.js.map": "/MMMG/static/js/main.35617064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc91fad.css",
+    "static/js/main.35617064.js"
+  ]
+}
