@@ -1,0 +1,2 @@
+# MMMG
+model of grammaticality
